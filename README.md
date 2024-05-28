@@ -3,7 +3,7 @@
 ## Analyzing Patient Outcomes in Hospitals: A Data-Driven Approach
 ---
 ### Project Description
-This project aims to investigate the factors influencing patient outcomes in hospitals using data analysis and visualization techniques. The dataset contains information on patient demographics, medical conditions, treatment options, and outcome measures (e.g., length of stay, readmission rates, and patient satisfaction).
+#### This project aims to investigate the factors influencing patient outcomes in hospitals using data analysis and visualization techniques. The dataset contains information on patient demographics, medical conditions, treatment options, and outcome measures (e.g., length of stay, readmission rates, and patient satisfaction).
 ---
 ~~~
 Google Query Sheet
