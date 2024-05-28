@@ -14,16 +14,21 @@ WHERE CONDITION = MET
 ---
 
 ![](rom.jpeg)
+_Above is the Data Visualization image_
 ### Objective
 1. Explore the relationship between patient characteristics and outcomes
 2. Identify high-risk patient groups and potential areas for quality improvement
 3. Develop predictive models to forecast patient outcomes
 4. Create interactive dashboards to visualize findings and facilitate hospital-wide decision-making
 ---
+### Tables
 | Heading 1 | Heading 2 | Heading 3|
 | ----------|-----------|----------|
-| Slide 1| Slide 2| Slide 3|
-| Slide 4| Slide 5| Slide 6|
+| Slide 1| Slide 2| Slide 3| Slide 1| Slide 2| Slide 3| 
+| Slide 4| Slide 5| Slide 6| Slide 1| Slide 2| Slide 3|
+| Slide 4| Slide 5| Slide 6| Slide 1| Slide 2| Slide 3|
+| Slide 4| Slide 5| Slide 6| Slide 1| Slide 2| Slide 3|
+| Slide 4| Slide 5| Slide 6| Slide 1| Slide 2| Slide 3|
 
 
 ### Tools and Technologies
