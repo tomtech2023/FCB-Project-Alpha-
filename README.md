@@ -13,12 +13,19 @@ WHERE CONDITION = MET
 ~~~
 ---
 
+![](rom.jpeg)
 ### Objective
 1. Explore the relationship between patient characteristics and outcomes
 2. Identify high-risk patient groups and potential areas for quality improvement
 3. Develop predictive models to forecast patient outcomes
 4. Create interactive dashboards to visualize findings and facilitate hospital-wide decision-making
 ---
+| Heading 1 | Heading 2 | Heading 3|
+| ----------|-----------|----------|
+| Slide 1| Slide 2| Slide 3|
+| Slide 4| Slide 5| Slide 6|
+
+
 ### Tools and Technologies
 - [Python](https://www.python.org/downloads/) (Pandas, NumPy, Scikit-learn) 
 - [Power BI](https://powerbi.microsoft.com/en-us/downloads/) (Data Modeling, Visualization, Dashboarding)
