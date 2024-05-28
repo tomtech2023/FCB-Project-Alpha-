@@ -22,13 +22,13 @@ _Above is the Data Visualization image_
 4. Create interactive dashboards to visualize findings and facilitate hospital-wide decision-making
 ---
 ### Tables
-| Heading 1 | Heading 2 | Heading 3|
+| Patient Name | Symptoms | Causes|
 | ----------|-----------|----------|
-| Slide 1| Slide 2| Slide 3| Slide 1| Slide 2| Slide 3| 
-| Slide 4| Slide 5| Slide 6| Slide 1| Slide 2| Slide 3|
-| Slide 4| Slide 5| Slide 6| Slide 1| Slide 2| Slide 3|
-| Slide 4| Slide 5| Slide 6| Slide 1| Slide 2| Slide 3|
-| Slide 4| Slide 5| Slide 6| Slide 1| Slide 2| Slide 3|
+| Slide 1| Slide 2| Slide 3| 
+| Slide 4| Slide 5| Slide 6| 
+| Slide 4| Slide 5| Slide 6| 
+| Slide 4| Slide 5| Slide 6| 
+| Slide 4| Slide 5| Slide 6| 
 
 
 ### Tools and Technologies
