@@ -10,6 +10,6 @@ This project aims to investigate the factors influencing patient outcomes in hos
 ### Tools and Technologies
 - [Python](https://www.python.org/downloads/) (Pandas, NumPy, Scikit-learn) 
 - [Power BI](https://powerbi.microsoft.com/en-us/downloads/) (Data Modeling, Visualization, Dashboarding)
-- [Excel]() (Data Cleaning, Preprocessing)
+- [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) (Data Cleaning, Preprocessing)
 
 
