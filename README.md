@@ -21,7 +21,7 @@ _Above is the Data Visualization image_
 3. Develop predictive models to forecast patient outcomes
 4. Create interactive dashboards to visualize findings and facilitate hospital-wide decision-making
 ---
-### Tables
+### Table
 | Patient Name | Symptoms | Causes|
 | ----------|-----------|----------|
 | Slide 1| Slide 2| Slide 3| 
