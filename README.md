@@ -5,3 +5,7 @@ The meeting continued with the coordinator informing us that we would be support
 # FCB-Project-Alpha-Sample 2
 ## Project Subtitle
 ##### kdd
+### **Tools Used**
+- Ms Excel
+- [_Google Sheet_](https://www.bing.com/ck/a?!&&p=a1a2cbf1fec8ccaeJmltdHM9MTcxNjg1NDQwMCZpZ3VpZD0wOGNmZTk1Ni03OWMxLTZmZTUtMjViZC1mZDcwNzhlNjZlNDMmaW5zaWQ9NTE5Mw&ptn=3&ver=2&hsh=3&fclid=08cfe956-79c1-6fe5-25bd-fd7078e66e43&psq=google+sheets&u=a1aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zaGVldHMvYWJvdXQv&ntb=1)
+- 
