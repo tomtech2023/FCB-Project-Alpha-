@@ -12,6 +12,7 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 ~~~
 ---
+
 ### Objective
 1. Explore the relationship between patient characteristics and outcomes
 2. Identify high-risk patient groups and potential areas for quality improvement
